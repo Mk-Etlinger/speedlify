@@ -7,6 +7,6 @@ module.exports = {
 	},
 	urls: [
 		"https://www.motortrend.com/",
-		"https://www.motortrend.com/news/roadkill-happened-must-see-tv/",
+		"https://www.motortrend.com/cars/lamborghini/huracan/2020/lamborghini-huracan-sterrato-first-drive-review/",
 	]
 };
